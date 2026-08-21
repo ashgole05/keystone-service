@@ -21,8 +21,8 @@
 	<description>Field Service Management Platform</description>
 
 	<properties>
-		<java.version>25</java.version>
-		<lombok.version>1.18.46</lombok.version>
+		<java.version>17</java.version>
+		<lombok.version>1.18.30</lombok.version>
 	</properties>
 
 	<dependencies>
